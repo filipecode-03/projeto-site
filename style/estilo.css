@@ -1,9 +1,10 @@
 body {
-    background-color: aqua;
+    background-color: gray;
 }
 
 main {
-    background-color: brown;
+    background-color: white;
+    color: black;
     width: 500px;
     margin: auto;
     padding: 10px;
