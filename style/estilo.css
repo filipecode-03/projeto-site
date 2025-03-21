@@ -11,3 +11,16 @@ main {
     box-shadow: 3px 3px 5px black;
     border-radius: 10px;
 }
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    text-decoration: underline;
+    background-color: gray;
+}
